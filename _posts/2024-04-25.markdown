@@ -1,14 +1,12 @@
 ---
-layout:     post
-title:      "欢迎"
-subtitle:   "welcome"
-date:       2024-04-25 17:00:00
-author:     "zmy"
-catalog: false
-published: false
+layout:       post
+title:        "welcome"
+author:       "zmy"
 header-style: text
+catalog:      true
 tags:
-  =Web
+    - Web
+    - JavaScript
 ---
 欢迎来到我的技术博客！
 大家好！
